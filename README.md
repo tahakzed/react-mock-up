@@ -1,6 +1,6 @@
 1- Download the code.
 2- Open command prompt or terminal.
-3- Download and install these two packages: 
+3- Download and install these two packages globally: 
     'react-native-cli'
     'react-native'
 4- Now in your terminal or cmd, navigate to the project directory (i.e: where all the project files are).
